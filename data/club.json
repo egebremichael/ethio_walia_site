@@ -5,8 +5,8 @@
   "location": "Toronto, Ontario",
   "established": 2017,
   "logo": "assets/images/club-logo.jpg",
-  "hero": "home-team-celebration",
-  "aboutImage": "team-green-lineup",
+  "hero": "home-team-lineup",
+  "aboutImage": "home-team-running",
   "story": "Established in Toronto in 2017, Ethio-Walia brings together the Ethiopian and Eritrean communities through soccer. We are a non-profit club focused on competitive soccer, player development, teamwork, leadership and positive community involvement.",
   "history": "Our competitive history includes the TSSL Championship in 2021 and several cup and tournament victories. We are seeking district membership to continue developing in a structured, competitive environment.",
   "mission": "Provide structured soccer opportunities, develop players with experienced coaching, and build lasting partnerships within our local soccer community.",
@@ -25,7 +25,7 @@
     {
       "value": 25,
       "suffix": "+",
-      "label": "Adult players",
+      "label": "Active players",
       "count": true
     },
     {
@@ -67,10 +67,17 @@
     }
   ],
   "heroPhoto": {
-    "id": "home-team-celebration",
-    "src": "assets/images/home-team-celebration.jpg",
-    "width": 1000,
-    "height": 750,
-    "alt": "Ethio Walia players and supporters celebrating together on the soccer pitch"
+    "id": "home-team-lineup",
+    "src": "assets/images/home-team-lineup.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Ethio Walia players and supporters posing together in green and yellow kits on the soccer pitch"
+  },
+  "aboutPhoto": {
+    "id": "home-team-running",
+    "src": "assets/images/home-team-running.jpg",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Ethio Walia players running together with their backs to the camera in green kits"
   }
 }

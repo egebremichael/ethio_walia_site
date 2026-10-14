@@ -9,7 +9,7 @@ const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
 const instagram='<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r=".7"/></svg>';
 const tiktok='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3v12a4 4 0 1 1-4-4v4a1 1 0 1 0 1 1V3h3Z"/><path d="M14 3c.4 3.2 2.4 5 6 5v3c-2.5 0-4.5-1-6-2.5"/></svg>';
 const arrow='<span aria-hidden="true">↗</span>';
-function image(id,attrs=''){const item=D.club.heroPhoto?.id===id?D.club.heroPhoto:D.gallery.find(x=>x.id===id);return item?`<img src="${esc(item.src)}" alt="${esc(item.alt)}" width="${item.width}" height="${item.height}" ${attrs}>`:''}
+function image(id,attrs=''){const item=[D.club.heroPhoto,D.club.aboutPhoto].find(photo=>photo?.id===id)||D.gallery.find(x=>x.id===id);return item?`<img src="${esc(item.src)}" alt="${esc(item.alt)}" width="${item.width}" height="${item.height}" ${attrs}>`:''}
 function button(url,label,kind=''){return `<a class="button ${kind}" href="${esc(url)}">${esc(label)}${arrow}</a>`}
 function setupChrome(){
  const c=D.club;$('#brand-name').innerHTML=`${esc(c.name.replace(' Soccer Club','').toUpperCase())}<span>SOCCER CLUB · ${esc(c.location.split(',')[0].toUpperCase())}</span>`;
