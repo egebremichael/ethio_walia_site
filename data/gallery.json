@@ -1,0 +1,332 @@
+[
+  {
+    "id": "team-trophy-celebration",
+    "src": "assets/images/team-trophy-celebration.jpg",
+    "caption": "Team trophy celebration",
+    "alt": "Team trophy celebration — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1600,
+    "height": 1200,
+    "source": "Image #1"
+  },
+  {
+    "id": "players-with-trophy",
+    "src": "assets/images/players-with-trophy.jpg",
+    "caption": "Players with trophy",
+    "alt": "Players with trophy — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1200,
+    "height": 1600,
+    "source": "Image #2"
+  },
+  {
+    "id": "captain-with-trophy",
+    "src": "assets/images/captain-with-trophy.jpg",
+    "caption": "Captain with trophy",
+    "alt": "Captain with trophy — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1200,
+    "height": 1600,
+    "source": "Image #3"
+  },
+  {
+    "id": "team-on-turf",
+    "src": "assets/images/team-on-turf.jpg",
+    "caption": "Team on turf",
+    "alt": "Team on turf — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1000,
+    "height": 750,
+    "source": "Image #4"
+  },
+  {
+    "id": "team-celebration-on-turf",
+    "src": "assets/images/team-celebration-on-turf.jpg",
+    "caption": "Team celebration on turf",
+    "alt": "Team celebration on turf — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1000,
+    "height": 750,
+    "source": "Image #5"
+  },
+  {
+    "id": "team-purple-night",
+    "src": "assets/images/team-purple-night.jpg",
+    "caption": "Team purple night",
+    "alt": "Team purple night — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1600,
+    "height": 1066,
+    "source": "Image #6"
+  },
+  {
+    "id": "night-match-kick",
+    "src": "assets/images/night-match-kick.jpg",
+    "caption": "Night match kick",
+    "alt": "Night match kick — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1600,
+    "height": 1066,
+    "source": "Image #7"
+  },
+  {
+    "id": "night-match-header",
+    "src": "assets/images/night-match-header.jpg",
+    "caption": "Night match header",
+    "alt": "Night match header — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1066,
+    "height": 1600,
+    "source": "Image #8"
+  },
+  {
+    "id": "night-match-challenge",
+    "src": "assets/images/night-match-challenge.jpg",
+    "caption": "Night match challenge",
+    "alt": "Night match challenge — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1600,
+    "height": 1066,
+    "source": "Image #9"
+  },
+  {
+    "id": "purple-player-portrait",
+    "src": "assets/images/purple-player-portrait.jpg",
+    "caption": "Purple player portrait",
+    "alt": "Purple player portrait — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1074,
+    "height": 721,
+    "source": "Image #10"
+  },
+  {
+    "id": "team-at-sunset",
+    "src": "assets/images/team-at-sunset.jpg",
+    "caption": "Team at sunset",
+    "alt": "Team at sunset — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1600,
+    "height": 1200,
+    "source": "Image #11"
+  },
+  {
+    "id": "red-kit-warmup",
+    "src": "assets/images/red-kit-warmup.jpg",
+    "caption": "Red kit warmup",
+    "alt": "Red kit warmup — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1920,
+    "height": 1440,
+    "source": "Image #12"
+  },
+  {
+    "id": "red-kit-training",
+    "src": "assets/images/red-kit-training.jpg",
+    "caption": "Red kit training",
+    "alt": "Red kit training — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1920,
+    "height": 1440,
+    "source": "Image #13"
+  },
+  {
+    "id": "team-green-lineup",
+    "src": "assets/images/team-green-lineup.jpg",
+    "caption": "Team green lineup",
+    "alt": "Team green lineup — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #15"
+  },
+  {
+    "id": "supporters-in-stands",
+    "src": "assets/images/supporters-in-stands.jpg",
+    "caption": "Supporters in stands",
+    "alt": "Supporters in stands — Ethio Walia Soccer Club",
+    "category": "Community",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #16"
+  },
+  {
+    "id": "team-stadium-lineup",
+    "src": "assets/images/team-stadium-lineup.jpg",
+    "caption": "Team stadium lineup",
+    "alt": "Team stadium lineup — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #17"
+  },
+  {
+    "id": "team-running-back",
+    "src": "assets/images/team-running-back.jpg",
+    "caption": "Team running back",
+    "alt": "Team running back — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #18"
+  },
+  {
+    "id": "young-football-fan",
+    "src": "assets/images/young-football-fan.jpg",
+    "caption": "Young football fan",
+    "alt": "Young football fan — Ethio Walia Soccer Club",
+    "category": "Community",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #19"
+  },
+  {
+    "id": "team-green-group",
+    "src": "assets/images/team-green-group.jpg",
+    "caption": "Team green group",
+    "alt": "Team green group — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #20"
+  },
+  {
+    "id": "sideline-team-talk",
+    "src": "assets/images/sideline-team-talk.jpg",
+    "caption": "Sideline team talk",
+    "alt": "Sideline team talk — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #21"
+  },
+  {
+    "id": "community-match-supporters",
+    "src": "assets/images/community-match-supporters.jpg",
+    "caption": "Community match supporters",
+    "alt": "Community match supporters — Ethio Walia Soccer Club",
+    "category": "Community",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #22"
+  },
+  {
+    "id": "team-warmup-run",
+    "src": "assets/images/team-warmup-run.jpg",
+    "caption": "Team warmup run",
+    "alt": "Team warmup run — Ethio Walia Soccer Club",
+    "category": "Matches",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #23"
+  },
+  {
+    "id": "club-community-group",
+    "src": "assets/images/club-community-group.jpg",
+    "caption": "Club community group",
+    "alt": "Club community group — Ethio Walia Soccer Club",
+    "category": "Community",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #24"
+  },
+  {
+    "id": "team-purple-day",
+    "src": "assets/images/team-purple-day.jpg",
+    "caption": "Team purple day",
+    "alt": "Team purple day — Ethio Walia Soccer Club",
+    "category": "Team",
+    "width": 1920,
+    "height": 1280,
+    "source": "Image #25"
+  },
+  {
+    "id": "match-pass-red-shorts",
+    "src": "assets/images/match-pass-red-shorts.jpg",
+    "alt": "A pass during match play — Ethio Walia Soccer Club",
+    "caption": "A pass during match play",
+    "category": "Matches",
+    "width": 1280,
+    "height": 1920,
+    "source": "HEIC #1"
+  },
+  {
+    "id": "match-dribble-toward-goal",
+    "src": "assets/images/match-dribble-toward-goal.jpg",
+    "alt": "Dribbling toward goal — Ethio Walia Soccer Club",
+    "caption": "Dribbling toward goal",
+    "category": "Matches",
+    "width": 1280,
+    "height": 1920,
+    "source": "HEIC #2"
+  },
+  {
+    "id": "match-one-on-one",
+    "src": "assets/images/match-one-on-one.jpg",
+    "alt": "Taking on a defender — Ethio Walia Soccer Club",
+    "caption": "Taking on a defender",
+    "category": "Matches",
+    "width": 1280,
+    "height": 1920,
+    "source": "HEIC #3"
+  },
+  {
+    "id": "match-ball-challenge",
+    "src": "assets/images/match-ball-challenge.jpg",
+    "alt": "Competing for the ball — Ethio Walia Soccer Club",
+    "caption": "Competing for the ball",
+    "category": "Matches",
+    "width": 1280,
+    "height": 1920,
+    "source": "HEIC #4"
+  },
+  {
+    "id": "match-defender-duel",
+    "src": "assets/images/match-defender-duel.jpg",
+    "alt": "A match-day duel — Ethio Walia Soccer Club",
+    "caption": "A match-day duel",
+    "category": "Matches",
+    "width": 1139,
+    "height": 1709,
+    "source": "HEIC #5"
+  },
+  {
+    "id": "match-strike-on-goal",
+    "src": "assets/images/match-strike-on-goal.jpg",
+    "alt": "A strike on goal — Ethio Walia Soccer Club",
+    "caption": "A strike on goal",
+    "category": "Matches",
+    "width": 1898,
+    "height": 1265,
+    "source": "HEIC #6"
+  },
+  {
+    "id": "red-kit-trophy-portrait",
+    "src": "assets/images/red-kit-trophy-portrait.jpg",
+    "alt": "A player holding the trophy — Ethio Walia Soccer Club",
+    "caption": "A player holding the trophy",
+    "category": "Team",
+    "width": 1440,
+    "height": 1920,
+    "source": "HEIC #7"
+  },
+  {
+    "id": "red-kit-trophy-group",
+    "src": "assets/images/red-kit-trophy-group.jpg",
+    "alt": "Sharing a trophy moment — Ethio Walia Soccer Club",
+    "caption": "Sharing a trophy moment",
+    "category": "Team",
+    "width": 1920,
+    "height": 1440,
+    "source": "HEIC #8"
+  },
+  {
+    "id": "red-kit-trophy-friends",
+    "src": "assets/images/red-kit-trophy-friends.jpg",
+    "alt": "Friends celebrating with a trophy — Ethio Walia Soccer Club",
+    "caption": "Friends celebrating with a trophy",
+    "category": "Team",
+    "width": 1920,
+    "height": 1440,
+    "source": "HEIC #9"
+  }
+]
