@@ -1,0 +1,37 @@
+{
+  "routes": [
+    {
+      "id": "home",
+      "label": "Home"
+    },
+    {
+      "id": "youth",
+      "label": "Youth Group"
+    },
+    {
+      "id": "donate",
+      "label": "Donate"
+    },
+    {
+      "id": "gallery",
+      "label": "Media Gallery"
+    },
+    {
+      "id": "tryouts",
+      "label": "Tryout Signups"
+    },
+    {
+      "id": "schedule",
+      "label": "Schedule"
+    }
+  ],
+  "galleryTitle": "OUR CLUB. OUR PEOPLE.",
+  "galleryDescription": "From the first whistle to the moments after. A collection of football, friendship and community.",
+  "galleryCategories": [
+    "All",
+    "Team",
+    "Matches",
+    "Community"
+  ],
+  "footerLine": "Rooted in community. United by football."
+}

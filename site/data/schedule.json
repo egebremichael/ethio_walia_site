@@ -1,0 +1,47 @@
+{
+  "note": "Tentative team training: Tuesday, Thursday and Sunday, 5:30–7:30 p.m. at Regent Park Athletic Grounds in Toronto. No winter sessions. Please confirm with the club before attending.",
+  "events": [
+    {
+      "id": "training-tuesday",
+      "title": "Tuesday team training",
+      "type": "Practice",
+      "weekday": "Tuesday",
+      "time": "5:30–7:30 p.m.",
+      "season": "Outside winter",
+      "start": null,
+      "end": null,
+      "location": "Regent Park Athletic Grounds",
+      "address": "480 Shuter Street, Toronto, Ontario, Canada",
+      "mapUrl": "https://maps.app.goo.gl/P8RXKm9DETNSLSrm8",
+      "tentative": true
+    },
+    {
+      "id": "training-thursday",
+      "title": "Thursday team training",
+      "type": "Practice",
+      "weekday": "Thursday",
+      "time": "5:30–7:30 p.m.",
+      "season": "Outside winter",
+      "start": null,
+      "end": null,
+      "location": "Regent Park Athletic Grounds",
+      "address": "480 Shuter Street, Toronto, Ontario, Canada",
+      "mapUrl": "https://maps.app.goo.gl/P8RXKm9DETNSLSrm8",
+      "tentative": true
+    },
+    {
+      "id": "training-sunday",
+      "title": "Sunday team training",
+      "type": "Practice",
+      "weekday": "Sunday",
+      "time": "5:30–7:30 p.m.",
+      "season": "Outside winter",
+      "start": null,
+      "end": null,
+      "location": "Regent Park Athletic Grounds",
+      "address": "480 Shuter Street, Toronto, Ontario, Canada",
+      "mapUrl": "https://maps.app.goo.gl/P8RXKm9DETNSLSrm8",
+      "tentative": true
+    }
+  ]
+}

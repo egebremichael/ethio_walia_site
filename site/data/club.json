@@ -1,0 +1,76 @@
+{
+  "name": "Ethio Walia Soccer Club",
+  "officialName": "Ethio-Walia Sport Club",
+  "tagline": "Teamwork. Discipline. Respect. Community.",
+  "location": "Toronto, Ontario",
+  "established": 2017,
+  "logo": "assets/images/club-logo.jpg",
+  "hero": "home-team-celebration",
+  "aboutImage": "team-green-lineup",
+  "story": "Established in Toronto in 2017, Ethio-Walia brings together the Ethiopian and Eritrean communities through soccer. We are a non-profit club focused on competitive soccer, player development, teamwork, leadership and positive community involvement.",
+  "history": "Our competitive history includes the TSSL Championship in 2021 and several cup and tournament victories. We are seeking district membership to continue developing in a structured, competitive environment.",
+  "mission": "Provide structured soccer opportunities, develop players with experienced coaching, and build lasting partnerships within our local soccer community.",
+  "values": [
+    "Teamwork",
+    "Discipline",
+    "Respect",
+    "Community involvement"
+  ],
+  "stats": [
+    {
+      "value": 2017,
+      "label": "Established",
+      "count": false
+    },
+    {
+      "value": 25,
+      "suffix": "+",
+      "label": "Adult players",
+      "count": true
+    },
+    {
+      "value": 2021,
+      "label": "TSSL champions",
+      "count": false
+    }
+  ],
+  "contact": {
+    "name": "Abel Gebrehiwet",
+    "phone": "647-937-5446",
+    "email": "Gebrehiwetabel241@gmail.com",
+    "instagram": "https://www.instagram.com/ethio_walia/",
+    "handle": "@ethio_walia",
+    "tiktok": "https://www.tiktok.com/@ethio.walia",
+    "tiktokHandle": "@ethio.walia"
+  },
+  "actions": [
+    {
+      "route": "youth",
+      "label": "THE NEXT GENERATION",
+      "title": "A future in football.",
+      "image": "young-football-fan",
+      "link": "Explore youth plans"
+    },
+    {
+      "route": "tryouts",
+      "label": "FIND YOUR PLACE",
+      "title": "Your team is here.",
+      "image": "team-warmup-run",
+      "link": "Join tryouts"
+    },
+    {
+      "route": "donate",
+      "label": "BUILD IT TOGETHER",
+      "title": "Support our story.",
+      "image": "club-community-group",
+      "link": "Support the club"
+    }
+  ],
+  "heroPhoto": {
+    "id": "home-team-celebration",
+    "src": "assets/images/home-team-celebration.jpg",
+    "width": 1000,
+    "height": 750,
+    "alt": "Ethio Walia players and supporters celebrating together on the soccer pitch"
+  }
+}

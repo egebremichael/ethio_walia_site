@@ -1,0 +1,35 @@
+{
+  "title": "THE NEXT GENERATION.",
+  "status": "Coming soon",
+  "image": "young-football-fan",
+  "description": "Our youth program for ages 6–12 is coming summer 2027. Built around teamwork, discipline, respect and community, it will introduce the next generation to soccer and support their development. More information to come soon.",
+  "values": [
+    "Teamwork",
+    "Discipline",
+    "Respect",
+    "Community involvement"
+  ],
+  "details": {
+    "Age group": "Ages 6–12",
+    "Launch": "Summer 2027",
+    "Program updates": "More information to come soon."
+  },
+  "faq": [
+    {
+      "question": "Is the youth program running now?",
+      "answer": "Our youth program is coming summer 2027. More information to come soon."
+    },
+    {
+      "question": "Which ages can participate?",
+      "answer": "The youth program is for ages 6–12. You can register your family’s interest ahead of the summer 2027 launch."
+    },
+    {
+      "question": "What will the program focus on?",
+      "answer": "The club’s goals emphasize player development, teamwork, discipline, respect and positive community involvement."
+    },
+    {
+      "question": "How can my family get involved?",
+      "answer": "Choose Youth interest on the signup page, or contact Abel Gebrehiwet using the club contact details below. More information about the summer 2027 program will be shared soon. Website signups are saved only on your device."
+    }
+  ]
+}
